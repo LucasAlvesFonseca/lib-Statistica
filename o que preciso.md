@@ -1,7 +1,7 @@
 - [X] Média Aritmética
 - [X] Mediana
-- [ ] Moda
-- [ ] Desvio Padrão
+- [X] Moda
+- [X] Desvio Padrão
 - [ ] Variância
 - [ ] Coeficiente de Variância (CV)
 - [ ] Correlação (C)
@@ -10,7 +10,7 @@
 # Média Aritmética
 
 $$
-x = \frac{1}{n} \sum^{n}_{i=1} x_i
+\bar{x} = \frac{1}{n} \sum^{n}_{i=1} x_i
 $$
 
 # Mediana
@@ -55,7 +55,7 @@ $$
 r= \frac{\sum(x_1-\bar{x})(y_i-\bar{y})}{\sqrt{\sum(x_1-\bar{x})²}\sqrt{(y_i-\bar{y})^2}}
 $$
 
-# Regressão Liner Simples
+# Regressão Linear Simples
 
 $$
 x = a +bx

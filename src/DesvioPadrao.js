@@ -1,3 +1,14 @@
+/**
+ * 
+ * 
+ * @param {number[]} arr - Uma array com informaões numéricas.
+ * @param {'a'|'b'|'c'} type - Tipo de Desvio Padrão:
+ *  - 'a': Tipo de Amostra
+ *  - 'b': Tipo de Populacao
+ *  - 'c': Ambos os resultados
+ * @returns {number|number[]} - O desvio padrão como número ou array com ambos.
+ */
+
 // Imports
 const Media = require("./Media.js");
 
@@ -33,3 +44,4 @@ function DesvioPadrao(arr, type) {
   }
 }
 
+module.exports = DesvioPadrao
