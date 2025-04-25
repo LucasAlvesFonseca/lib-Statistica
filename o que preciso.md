@@ -2,8 +2,8 @@
 - [X] Mediana
 - [X] Moda
 - [X] Desvio Padrão
-- [ ] Variância
-- [ ] Coeficiente de Variância (CV)
+- [X] Variância
+- [X] Coeficiente de Variância (CV)
 - [ ] Correlação (C)
 - [ ] Regressão Linear Simples
 
