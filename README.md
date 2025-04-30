@@ -1,7 +1,7 @@
 # 📊 LibEstat - Biblioteca de Estatística Básica em Node.js
 
 Olá! 👋
-Meu nome é [Seu Nome Aqui] e sou estudante de Ciência da Computação. Este projeto é uma biblioteca simples feita em **Node.js** com foco em **estatística básica**, desenvolvida com o objetivo de me desafiar e consolidar os conhecimentos da matéria que estou cursando na graduação.
+Meu nome é Lucas Alves Fonseca e sou estudante de Ciência da Computação. Este projeto é uma biblioteca simples feita em **Node.js** com foco em **estatística básica**, desenvolvida com o objetivo de me desafiar e consolidar os conhecimentos da matéria que estou cursando na graduação.
 
 ## 🎯 Objetivo
 
